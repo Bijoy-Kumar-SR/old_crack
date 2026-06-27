@@ -18,7 +18,7 @@ pip install pycurl
 cd
 clear
 rm -rf old_crack
-git clone https://github.com/younis-dgk/old_crack
+git clone https://github.com/Bijoy-Kumar-SR/old_crack.git
 cd old_crack
 python Xyz.py
 ```

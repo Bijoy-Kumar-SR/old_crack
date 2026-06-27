@@ -5,7 +5,7 @@
     @ facebook : https://www.facebook.com/YounisDgk
     
 """
-import os, sys,time, platform, old
+import os, sys,time, platform
 os.system('clear') 
 print('\033[0m [💸] \033[92m join Our WhatsApp group For More Updates 🥰✨') 
 time.sleep(3)
